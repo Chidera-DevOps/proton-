@@ -13,6 +13,7 @@
 - JSP
 - Tomcat
 - MySQL
+- DERA
 - Memcached
 - Rabbitmq
 - ElasticSearch
